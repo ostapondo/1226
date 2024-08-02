@@ -1,0 +1,23 @@
+.navbar-nav {
+    justify-content: center;
+    gap: 25px;
+}
+
+.nav-link.active {
+    font-weight: 700;
+}
+
+.carousel-img {
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.card {
+    border-radius: 3px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
