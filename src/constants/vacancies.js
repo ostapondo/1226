@@ -1,13 +1,13 @@
 export const VACANCIES_ROUTES = {
-    OPERATOR_BPLA_URL: "/vacancies/operator-bpla",
-    IT_SPECIALIST_URL: "/vacancies/it-specialist",
-    DRIVER_URL: "/vacancies/vodii",
-    SAPER_URL: "/vacancies/saper",
-    DEPUTY_COMMANDER_URL: "/vacancies/zastupnyk-komandyra-roty-z-mpz",
-    COOK_URL: "/vacancies/kuhar",
-    COMBAT_MEDIC_URL: "/vacancies/boiovyi-medyk",
-    FELDSHER_URL: "/vacancies/feldsher",
-    MECHANIC_URL: "/vacancies/mehanik",
+    OPERATOR_BPLA_URL: "/1226/vacancies/operator-bpla",
+    IT_SPECIALIST_URL: "/1226/vacancies/it-specialist",
+    DRIVER_URL: "/1226/vacancies/vodii",
+    SAPER_URL: "/1226/vacancies/saper",
+    DEPUTY_COMMANDER_URL: "/1226/vacancies/zastupnyk-komandyra-roty-z-mpz",
+    COOK_URL: "/1226/vacancies/kuhar",
+    COMBAT_MEDIC_URL: "/1226/vacancies/boiovyi-medyk",
+    FELDSHER_URL: "/1226/vacancies/feldsher",
+    MECHANIC_URL: "/1226/vacancies/mehanik",
 
 }
 
